@@ -41,7 +41,10 @@ Smart Contract
 
 https://sepolia.basescan.org/address/0x271C7936f116F71B9B670322C5574171C44A284E
 
-here is a [link] (https://contracts-xyz.vercel.app/) to the vercel deployment
+here is a link to the [backend](https://github.com/Otaiki1/contracts.xyz-contracts)repo 
+
+here is a [link](https://contracts-xyz.vercel.app/) to the vercel deployment
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the coding standards and include tests for any new features or bug fixes.
