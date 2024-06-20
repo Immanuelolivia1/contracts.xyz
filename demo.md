@@ -37,12 +37,6 @@ Smart Contract
 - Hardhat (Ethereum development environment)
 - Metamask (for interacting with the contract)
 
-## deployment Address
-
-https://sepolia.basescan.org/address/0x271C7936f116F71B9B670322C5574171C44A284E
-
-here is a [link] (https://contracts-xyz.vercel.app/) to the vercel deployment
-
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the coding standards and include tests for any new features or bug fixes.
 
